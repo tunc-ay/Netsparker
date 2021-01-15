@@ -6,12 +6,12 @@ You can visit [Netsparker Support](https://www.netsparker.com/support/) to know 
 
 # Support Content
 
-## [Getting Started](https://www.netsparker.com/support/)<br>
-## [Settings](https://www.netsparker.com/support/)<br>
-## [Issues](https://www.netsparker.com/support/)<br>
-## [Integrations](https://www.netsparker.com/support/)<br>
-## [Team Management](https://www.netsparker.com/support/)<br>
-## [Your Account](https://www.netsparker.com/support/)<br>
-## [Scans](https://www.netsparker.com/support/)<br>
-## [Notifications](https://www.netsparker.com/support/)<br>
-## [Reports](https://www.netsparker.com/support/)<br>
+## [Getting Started](https://www.netsparker.com/support/category/getting-started/)<br>
+## [Settings](https://www.netsparker.com/support/category/settings)<br>
+## [Issues](https://www.netsparker.com/support/category/issues)<br>
+## [Integrations](https://www.netsparker.com/support/category/integrations)<br>
+## [Team Management](https://www.netsparker.com/support/category/team-management)<br>
+## [Your Account](https://www.netsparker.com/support/category/your-account)<br>
+## [Scans](https://www.netsparker.com/support/category/scans)<br>
+## [Notifications](https://www.netsparker.com/support/category/notifications)<br>
+## [Reports](https://www.netsparker.com/support/category/reports)<br>
