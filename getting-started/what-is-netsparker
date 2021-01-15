@@ -1,0 +1,5 @@
+*Netsparker* is an automated, yet fully configurable, [web application security scanner](https://www.netsparker.com/online-web-application-security-scanner/) that enables you to scan websites, web applications and web services, and identify security flaws. Netsparker can scan all types of web applications, regardless of the platform or the language with which they are built.
+
+Netsparker is the only online web application security scanner that automatically exploits identified vulnerabilities in a read-only and safe way, in order to confirm identified issues. It also presents proof of the vulnerability so that you do not need to waste time manually verifying it. For example, in the case of a detected SQL injection vulnerability, it will show the database name as the proof of exploit.
+
+Our scanning technology is designed to help you secure web applications easily without any fuss, so you can focus on fixing the reported vulnerabilities. If Netsparker cannot automatically confirm a vulnerability, it will inform you about it by prefixing it with '[Possible]', and assigning a Certainty value, so you know what should be fixed immediately.
