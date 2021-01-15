@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Netsparker
 
-You can use the [editor on GitHub](https://github.com/tunc-ay/Netsparker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can visit [Netsparker Support](https://www.netsparker.com/support/) to know and familiarize yourself with Netsparker - online web security scanner.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Netsparker!](https://media-exp1.licdn.com/dms/image/C4D1BAQFoIkCN8fOKYQ/company-background_10000/0/1583231874633?e=2159024400&v=beta&t=K-3F-xPKcneX2m8Q73TWBh3l6S32abU2FrLDs74WgFE "Philadelphia's Magic Gardens")
 
-### Markdown
+# Support Content
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tunc-ay/Netsparker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## [Getting Started](https://www.netsparker.com/support/)<br>
+## [Settings](https://www.netsparker.com/support/)<br>
+## [Issues](https://www.netsparker.com/support/)<br>
+## [Integrations](https://www.netsparker.com/support/)<br>
+## [Team Management](https://www.netsparker.com/support/)<br>
+## [Your Account](https://www.netsparker.com/support/)<br>
+## [Scans](https://www.netsparker.com/support/)<br>
+## [Notifications](https://www.netsparker.com/support/)<br>
+## [Reports](https://www.netsparker.com/support/)<br>
