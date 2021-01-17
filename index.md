@@ -6,7 +6,7 @@ You can visit [Netsparker Support](https://www.netsparker.com/support/) to know 
 
 # Support Content
 
-## [Getting Started](/getting-started/what-is-netsparker)<br>
+## [Getting Started](https://github.com/tunc-ay/Netsparker/tree/gh-pages/getting-started)<br>
 ## [Settings](https://www.netsparker.com/support/category/settings)<br>
 ## [Issues](https://www.netsparker.com/support/category/issues)<br>
 ## [Integrations](https://www.netsparker.com/support/category/integrations)<br>
