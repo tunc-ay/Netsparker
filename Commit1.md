@@ -1,1 +1,0 @@
-This is the second document that I committed to GitHub.
