@@ -1,25 +1,31 @@
-name: Super-Linter
-
-# Run this workflow every time a new commit pushed to your repository
-on: push
-
+name: Netspaker Enterprise Scan Sample Workflow
+​
+on:
+  push:
+    branches: [ main ]
+​
 jobs:
-  # Set the job key. The key is displayed as the job name
-  # when a job name is not provided
-  super-lint:
-    # Name the Job
-    name: Lint code base
-    # Set the type of machine to run on
-    runs-on: ubuntu-latest
-
+netspaker_scan_job:
+    runs-on: ubuntu-20.04
     steps:
-      # Checks out a copy of your repository on the ubuntu-latest machine
-      - name: Checkout code
+      # Clones action repository
+      - name: Checkout action repository
+        id: netsparker-enterprise-scan-action
         uses: actions/checkout@v2
-
-      # Runs the Super-Linter action
-      - name: Run Super-Linter
-        uses: github/super-linter@v3
-        env:
-          DEFAULT_BRANCH: main
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          repository: netsparker/Netsparker-Cloud-GitHub-Actions
+          ref: v0.0.1
+          path: .
+      # Starts actions with given inputs
+      - name: Start Netsparker Enterprise Scan
+        id: netsparker-enterprise-scan-step
+        uses: ./
+        with:
+          website-id: 'd23c7e0d-9ebc-4159-0289-abed0204d114'
+          scan-type: 'FullWithPrimaryProfile'
+          profile-id: '00000000-0000-0000-0000-000000000000'
+          user-id: ${{ secrets.NETSPARKER_USER_ID }}
+          api-token: ${{ secrets.NETSPARKER_API_TOKEN }}
+      # Displays output for action
+      - name: Display Scan Request Message
+        run: echo "${{ steps.netsparker-enterprise-scan-step.outputs.scan-message }}"
